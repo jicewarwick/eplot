@@ -1,0 +1,8 @@
+config.json
+param_raw.json
+*.xls
+.idea/
+__pycache__/
+*/.ipynb_checkpoints
+html/
+
